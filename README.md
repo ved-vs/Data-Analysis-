@@ -15,10 +15,3 @@ This project showcases a data analysis and visualization dashboard for **Tesla (
 
 ---
 
-## 📁 Project Structure
-
-```bash
-├── Tesla_GME_Dashboard.ipynb    # Main analysis and dashboard notebook
-├── tesla_revenue.csv            # (Optional) Tesla revenue data (scraped)
-├── gamestop_revenue.csv         # (Optional) GameStop revenue data (scraped)
-├── README.md                    # Project overview
